@@ -1,5 +1,5 @@
 # TFTP-python-clinet
-Linux support only must install ATFTP\TFTP 
+Linux support  must install ATFTP\TFTP (yum or apt)
 support Centos and ubuntu
 
 use code example:
